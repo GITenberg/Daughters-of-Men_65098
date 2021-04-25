@@ -1,0 +1,22 @@
+_repo: Daughters-of-Men_65098
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lynch, Hannah
+    birthdate: 1859
+    deathdate: 1904
+    gutenberg_agent_id: '43709'
+    url: http://www.gutenberg.org/2009/agents/43709
+description: ''
+gutenberg_issued: '2021-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65098'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Daughters of Men
+url: http://www.gutenberg.org/ebooks/65098
